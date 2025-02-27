@@ -1,0 +1,46 @@
+{
+  "expenses": [
+    {
+      "id": "2",
+      "description": "Burger",
+      "amount": 351,
+      "date": "2025-02-05",
+      "category": "Food"
+    },
+    {
+      "description": "Fan",
+      "amount": 300,
+      "date": "2025-02-03",
+      "category": "Utilities",
+      "id": "3"
+    },
+    {
+      "description": "Movie",
+      "amount": 600,
+      "date": "2025-02-14",
+      "category": "Entertainment",
+      "id": "4"
+    },
+    {
+      "description": "Train",
+      "amount": 1000,
+      "date": "2025-02-08",
+      "category": "Transport",
+      "id": "5"
+    },
+    {
+      "id": "7",
+      "description": "Pizza",
+      "amount": 504,
+      "date": "2025-02-11",
+      "category": "Food"
+    },
+    {
+      "id": "8",
+      "description": "Plate",
+      "amount": 802,
+      "date": "2025-02-14",
+      "category": "Utilities"
+    }
+  ]
+}
